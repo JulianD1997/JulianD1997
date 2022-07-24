@@ -8,12 +8,12 @@ Soy Ingeniero Mecatrónico, me apasiona el desarrollo, inicie mi recorrido en la
 [![MariaDB](https://img.shields.io/badge/-MariaDB-2DE500)]()
 </br>
 [![Dart](https://img.shields.io/badge/-Dart-151515)]()
-[![Flutter](https://img.shields.io/badge/-Flutter-0738EC)]()
+[![Flutter](https://img.shields.io/badge/-Flutter-217FFE)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-C96B00)]()
 </br>
 [![Java](https://img.shields.io/badge/-Java-BC0000)]()
 
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-lightgrey)](https://www.linkedin.com/in/julian-david-casallas-bernal-83b44217a/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0041CB)](https://www.linkedin.com/in/julian-david-casallas-bernal-83b44217a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red)](julian.casallasb@gmail.com)
