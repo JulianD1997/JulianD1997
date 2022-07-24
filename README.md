@@ -4,9 +4,9 @@ Soy Ingeniero Mecatrónico, me apasiona el desarrollo, inicie mi recorrido en la
 </br>
 ##Habilidades
 </br>
-[![Python]([https://img.shields.io/badge/-Python-FFF700](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010))]( )
-[![SQLite](https://img.shields.io/badge/-SQLite-blue)](https://www.sqlite.org/index.html)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen)](https://mariadb.org/)
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Flutter](https://img.shields.io/badge/-Flutter-blue)](https://flutter.dev/?gclsrc=ds&gclsrc=ds)
 [![Dart](https://img.shields.io/badge/-Dart-black)](https://dart.dev/)
