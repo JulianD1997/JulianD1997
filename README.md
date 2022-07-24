@@ -4,8 +4,8 @@ Soy Ingeniero Mecatrónico, me apasiona el desarrollo, inicie mi recorrido en la
 
 ## Habilidades:
 [![Python](https://img.shields.io/badge/-Python-FFF700)]()
-[![SQLite](https://img.shields.io/badge/-SQLite-FFF700)]()
-[![MariaDB](https://img.shields.io/badge/-MariaDB-FFF700)]()
+[![SQLite](https://img.shields.io/badge/-SQLite-FBFBFD)]()
+[![MariaDB](https://img.shields.io/badge/-MariaDB-2DE500)]()
 </br>
 [![Dart](https://img.shields.io/badge/-Dart-151515)]()
 [![Flutter](https://img.shields.io/badge/-Flutter-0738EC)]()
