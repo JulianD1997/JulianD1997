@@ -4,15 +4,15 @@ Soy Ingeniero Mecatrónico, me apasiona el desarrollo, inicie mi recorrido en la
 </br>
 ##Habilidades
 </br>
-[![Python](https://img.shields.io/badge/-Python-yellow)]()
-[![SQLite](https://img.shields.io/badge/-SQLite-blue)]()
-[![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen)]()
+[![Python](https://img.shields.io/badge/-Python-yellow)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-blue)](https://www.sqlite.org/index.html)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen)](https://mariadb.org/)
 </br>
-[![Flutter](https://img.shields.io/badge/-Flutter-blue)]()
-[![Dart](https://img.shields.io/badge/-Dart-black)]()
-[![Firebase](https://img.shields.io/badge/-Firebase-orange)]()
+[![Flutter](https://img.shields.io/badge/-Flutter-blue)](https://flutter.dev/?gclsrc=ds&gclsrc=ds)
+[![Dart](https://img.shields.io/badge/-Dart-black)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/-Firebase-orange)](https://firebase.google.com/?hl=es-419&gclsrc=ds&gclsrc=ds)
 </br>
-[![Java](https://img.shields.io/badge/-Java-red)]()
+[![Java](https://img.shields.io/badge/-Java-red)](https://www.java.com/es/)
 
 ##Contacto
 </br>
