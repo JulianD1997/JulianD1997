@@ -1,17 +1,15 @@
 # Hola soy Julián Casallas 👋
 </br>
-Soy Ingeniero Mecatrónico :robot:, me apasiona el desarrollo, inicie mi recorrido en la programación desde 2021 con conocimientos ya adquiridos en los lenguajes C y C++ vistos en mi carrera profesional, realizando diferentes cursos :book: donde aprendí Python, Java, Dart y Flutter. Actualmente, 🌱 me estoy especializando en el lenguaje Python haciendo un diplomado, sigo en la búsqueda constante de aprendizaje y experiencia, buscando empleo y desarrollando diferentes proyectos ofrecidos por la comunidad de este mundillo. Quiero aportar mis conocimientos, mi pasión y predilección por la programación.
+Soy Ingeniero Mecatrónico :robot:, me apasiona el desarrollo. Inicié mi recorrido en la programación en el 2021 con conocimientos previos en los lenguajes C y C++ adquiridos en mi carrera profesional. He realizado diversos cursos :book: donde aprendí Python, Java, Dart y Flutter. Actualmente, 🌱 me estoy especializando en el lenguaje Python a través de una diplomatura y un curso de Fullstack Python, donde he explorado el framework Django. Continúo adquiriendo nuevos conocimientos y experiencia a través de diferentes proyectos ofrecidos por la comunidad de este mundillo. Busco una oportunidad laboral que me permita aplicar mis habilidades y demostrar mi motivación y entusiasmo por seguir incursionando en el desarrollo.
 
 ## Habilidades:
 [![Python](https://img.shields.io/badge/-Python-FFF700)]()
 [![SQLite](https://img.shields.io/badge/-SQLite-FBFBFD)]()
-[![MariaDB](https://img.shields.io/badge/-MariaDB-2DE500)]()
+[![Django](https://img.shields.io/badge/-Dajngo-green)]()
 </br>
-[![Dart](https://img.shields.io/badge/-Dart-151515)]()
-[![Flutter](https://img.shields.io/badge/-Flutter-217FFE)]()
-[![Firebase](https://img.shields.io/badge/-Firebase-C96B00)]()
-</br>
-[![Java](https://img.shields.io/badge/-Java-BC0000)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-orange)]()
+[![HTML](https://img.shields.io/badge/-HTML-important)]()
+[![CSS](https://img.shields.io/badge/-CSS-blue)]()
 
 ## Contacto:
 
